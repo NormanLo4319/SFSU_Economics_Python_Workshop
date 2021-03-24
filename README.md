@@ -1,11 +1,11 @@
 # SFSU Economics Python Workshop
 This repository introduces the application of Python in Economics and general data related industry. It covers the following topics in the Jupyter Notebook. 
 
-I. Install and Import Packages
-II. Import Data Using Pandas
-III. Clean and Manipulate Data in Pandas DataFrame
-IV. Create Data Visualization Using Matplotlib
-V. Build Simple Linear Regression Model with StatsModels
+- I. Install and Import Packages
+- II. Import Data Using Pandas
+- III. Clean and Manipulate Data in Pandas DataFrame
+- IV. Create Data Visualization Using Matplotlib
+- V. Build Simple Linear Regression Model with StatsModels
 
 For demonstration purpose, it is suggested to have Anaconda installed on the machine to follow the workshop demo.  Here is a brief installation instruction for Anaconda:
 
