@@ -7,7 +7,7 @@ III. Clean and Manipulate Data in Pandas DataFrame
 IV. Create Data Visualization Using Matplotlib
 V. Build Simple Linear Regression Model with StatsModels
 
-For demonstration purpose, it is suggested to have Anaconda installed on the machine to follow the demo.  Here is a brief installation instruction for Anaconda:
+For demonstration purpose, it is suggested to have Anaconda installed on the machine to follow the workshop demo.  Here is a brief installation instruction for Anaconda:
 
 Note: The Python version in this documentation is up to 3.7, but you can definitely go with the newest version offered on Anaconda official website.
 
