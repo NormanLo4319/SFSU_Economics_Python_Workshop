@@ -1,4 +1,4 @@
-# SFSU_Economics_Python_Workshop
+# SFSU Economics Python Workshop
 This repository introduces the application of Python in Economics and general data related industry. It covers the following topics in the Jupyter Notebook. 
 
 I. Install and Import Packages
