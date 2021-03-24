@@ -9,6 +9,8 @@ V. Build Simple Linear Regression Model with StatsModels
 
 For demonstration purpose, it is suggested to have Anaconda installed on the machine to follow the demo.  Here is a brief installation instruction for Anaconda:
 
+Note: The Python version in this documentation is up to 3.7, but you can definitely go with the newest version offered on Anaconda official website.
+
 ## Installing Jupyter Notebook
 Before starting to write code in Python, we need to first setup the development environment, which include an interpreter, standard library, and other environment settings.  For people who want to use the official Python development environment, you can download it from Python official web page, www.python.org.  However, the IDLE (Integrated Developmnet and Learning Environment) provided by Python is not the most intuitive one to use for developers or programmers.  Here we adotp to a more complete standard platform called "Anaconda" and using "Jupyter Notebook" as our development environment.  Jupyter Notebook is an open-source web-based development environment for coding.  It supports over 40 programming languages, includes Python, R, Julia, and Scala.  
 
