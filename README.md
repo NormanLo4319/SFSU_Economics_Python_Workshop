@@ -33,12 +33,12 @@ Once you created a new Python notebook file, step 1, you can give a name to the 
 ![anaconda 5](/images/anaconda5.png)
 
 ## Additional Resources:
-[Python Fundamentals Repo](https://github.com/NormanLo4319/Python_Fundamentals)
-[Official Python Documentation](https://docs.python.org/3/)
-[Pandas Documentation](https://pandas.pydata.org/docs/)
-[MatPlotLib Documentation](https://matplotlib.org/stable/contents.html)
-[StatsModels Documentation](https://www.statsmodels.org/stable/index.html)
-[StackOverflow](https://stackoverflow.com/)
-[Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [Python Fundamentals Repo](https://github.com/NormanLo4319/Python_Fundamentals)
+* [Official Python Documentation](https://docs.python.org/3/)
+* [Pandas Documentation](https://pandas.pydata.org/docs/)
+* [MatPlotLib Documentation](https://matplotlib.org/stable/contents.html)
+* [StatsModels Documentation](https://www.statsmodels.org/stable/index.html)
+* [StackOverflow](https://stackoverflow.com/)
+* [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
 Copyright © 2021 Norman Lo
