@@ -41,4 +41,9 @@ Once you created a new Python notebook file, step 1, you can give a name to the 
 * [StackOverflow](https://stackoverflow.com/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 
+## Python Integration in Stata 16:
+For those who are interested in using Stata with Python integration, here is a link for the documentation from the official Stata website.
+
+https://www.stata.com/new-in-stata/python-integration/
+
 Copyright © 2021 Norman Lo
